@@ -2,4 +2,8 @@
 	path = trabalho1
 	url = https://github.com/matilde-silva-21/trabalho1_RCOM
 
+[submodule "trabalho2"]
+	path = trabalho2
+	url = https://github.com/matilde-silva-21/trabalho2_RCOM
+
 
